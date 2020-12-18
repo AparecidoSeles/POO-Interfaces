@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\bin\Debug\netcoreapp3.1\POO-Interfaces.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\bin\Debug\netcoreapp3.1\POO-Interfaces.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\bin\Debug\netcoreapp3.1\POO-Interfaces.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\bin\Debug\netcoreapp3.1\POO-Interfaces.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\bin\Debug\netcoreapp3.1\POO-Interfaces.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\bin\Debug\netcoreapp3.1\POO-Interfaces.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\obj\Debug\netcoreapp3.1\POO-Interfaces.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\obj\Debug\netcoreapp3.1\POO-Interfaces.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\obj\Debug\netcoreapp3.1\POO-Interfaces.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\obj\Debug\netcoreapp3.1\POO-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\obj\Debug\netcoreapp3.1\POO-Interfaces.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\obj\Debug\netcoreapp3.1\POO-Interfaces.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\POO-Interfaces\obj\Debug\netcoreapp3.1\POO-Interfaces.genruntimeconfig.cache
