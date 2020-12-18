@@ -46,15 +46,19 @@ namespace POO_Interfaces
             carrinho.Cadastrar(p3);
             carrinho.Cadastrar(p4);
 
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.DarkBlue;  
+              // mudar cor da fonte 
             Console.WriteLine("Primeira lista");
-            Console.ResetColor();
+            System.Console.WriteLine();
+            Console.ResetColor();                           // restornar cor da fonte
 
             // LISTAR PRODUTOS DO CARRINHO
             carrinho.Listar();
 
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Red;    
+            System.Console.WriteLine();
             Console.WriteLine("Lista Alterada");
+            System.Console.WriteLine();
             Console.ResetColor();
 
             // ALTERAR PRODUTO
